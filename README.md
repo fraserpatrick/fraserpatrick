@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hello, I'm Fraser.
+I am currently studying Computing Science at University of Strathclyde.
 <!--
 **fraserpatrick/fraserpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
